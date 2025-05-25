@@ -15,4 +15,4 @@
 
 **📫 Contato:**  
 📧 **E-mail:** [pedrosenadev@outlook.com](mailto:pedrosenadev@outlook.com)  
-🔗 **GitHub:** [github.com/pedrosenadev](https://github.com/pedrosenadev)
+🔗 **GitHub:** [github.com/pedrosenadevjs](https://github.com/pedrosenadevjs)
